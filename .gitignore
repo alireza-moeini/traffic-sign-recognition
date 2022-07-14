@@ -1,7 +1,6 @@
 # Custom files
 .vscode
 .DS_Store
-weights
 
 
 # Byte-compiled / optimized / DLL files
